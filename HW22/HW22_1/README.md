@@ -1,18 +1,14 @@
-# Decoding
+# ⚪ Decoding
 
 - input image 1
 
 
-
-![a](https://user-images.githubusercontent.com/87034655/140489449-2d574e8c-fe57-45f7-9267-09d494e7c13c.jpg)
-
+> ![a-1](https://user-images.githubusercontent.com/87034655/140491374-e6441b50-e35e-46ef-8bee-dc8bbd750602.jpg)
 
 
 - input image 2
 
-
-> ![b](https://user-images.githubusercontent.com/87034655/140488540-97772c80-7307-4341-9da4-969e69be32cf.jpg)
-
+> ![b-1](https://user-images.githubusercontent.com/87034655/140491423-19fc80ec-83e8-4f5d-8881-d80169a33c27.jpg)
 
 - output
 
