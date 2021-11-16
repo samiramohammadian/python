@@ -98,15 +98,10 @@ while True:
                 x,y,w,h = face
                 frame[y:y+h, x:x+h] = cv2.rotate(frame[y:y+h, x:x+h], cv2.ROTATE_180)
 
+                
         elif key == 48 :  
 
             break
- 
 
-
-        else:
-
-            pass
-        
-
+            
         cv2.imshow("Advanced Webcam", frame)
