@@ -42,6 +42,8 @@
 
 # 5.Black and white photo color recognition
 
+- output
+> https://user-images.githubusercontent.com/87034655/143730309-9337daa0-e424-4050-9308-607afcc436f0.mp4
 
 
 
